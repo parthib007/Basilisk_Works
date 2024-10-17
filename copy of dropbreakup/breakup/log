@@ -1,0 +1,213 @@
+i dt t mgp.i mgpf.i mgu.i perf.t perf.speed grid->tn
+0 0.000960852 0 0 0 0 0.00e+00 0.00e+00 191062 
+1 0.000160142 0.000160142 11 0 1 3.72e+00 1.63e+04 60652 
+2 0.000185658 0.0003458 11 0 3 4.89e+00 2.02e+04 37993 
+3 0.000209874 0.000555674 8 0 3 5.45e+00 2.61e+04 43306 
+4 0.000230349 0.000786023 8 0 3 6.09e+00 2.85e+04 31489 
+5 0.000249026 0.00103505 7 0 3 6.52e+00 3.00e+04 22069 
+6 0.000263675 0.00129872 7 0 3 6.75e+00 3.16e+04 18238 
+7 0.000280686 0.00157941 8 0 3 6.90e+00 3.33e+04 16003 
+8 0.000300735 0.00188015 8 0 4 7.02e+00 3.50e+04 15634 
+9 0.000312302 0.00219245 7 0 4 7.14e+00 3.65e+04 15463 
+10 0.000325315 0.00251776 8 0 4 7.24e+00 3.81e+04 15409 
+11 0.000325315 0.00284308 7 0 4 7.34e+00 3.97e+04 15370 
+12 0.000340806 0.00318388 9 0 4 7.44e+00 4.13e+04 15370 
+13 0.000358743 0.00354263 7 0 4 7.55e+00 4.27e+04 15424 
+14 0.000358743 0.00390137 7 0 4 7.65e+00 4.42e+04 15448 
+15 0.000358743 0.00426011 6 0 4 7.74e+00 4.57e+04 15478 
+16 0.000382659 0.00464277 9 0 4 7.84e+00 4.70e+04 15499 
+17 0.000382659 0.00502543 8 0 4 7.96e+00 4.83e+04 15526 
+18 0.000382659 0.00540809 6 0 4 8.05e+00 4.97e+04 15538 
+19 0.000382659 0.00579075 6 0 4 8.14e+00 5.10e+04 15550 
+20 0.000382659 0.00617341 6 0 4 8.23e+00 5.24e+04 15583 
+21 0.000382659 0.00655607 6 0 4 8.35e+00 5.35e+04 15604 
+22 0.000382659 0.00693873 6 0 4 8.44e+00 5.48e+04 15649 
+23 0.000382659 0.00732139 5 0 4 8.52e+00 5.61e+04 15682 
+24 0.000382659 0.00770404 5 0 4 8.61e+00 5.73e+04 15709 
+25 0.000382659 0.0080867 5 0 4 8.72e+00 5.84e+04 15745 
+26 0.000382659 0.00846936 5 0 4 8.81e+00 5.96e+04 15781 
+27 0.000382659 0.00885202 5 0 4 8.89e+00 6.08e+04 15820 
+28 0.000382659 0.00923468 5 0 4 8.98e+00 6.20e+04 15823 
+29 0.000382659 0.00961734 5 0 4 9.11e+00 6.28e+04 15844 
+30 0.000382659 0.01 5 0 4 9.20e+00 6.39e+04 15868 
+31 0.000434783 0.0104348 9 0 4 9.34e+00 6.47e+04 15886 
+32 0.000434783 0.0108696 9 0 4 9.44e+00 6.57e+04 15916 
+33 0.000434783 0.0113043 5 0 4 9.55e+00 6.66e+04 15943 
+34 0.000434783 0.0117391 5 0 4 9.65e+00 6.76e+04 15964 
+35 0.000434783 0.0121739 5 0 4 9.74e+00 6.86e+04 15988 
+36 0.000434783 0.0126087 5 0 4 9.82e+00 6.97e+04 16030 
+37 0.000434783 0.0130435 5 0 4 9.93e+00 7.05e+04 16063 
+38 0.000434783 0.0134783 4 0 4 1.00e+01 7.15e+04 16087 
+39 0.000434783 0.013913 4 0 4 1.01e+01 7.25e+04 16114 
+40 0.000434783 0.0143478 4 0 4 1.02e+01 7.34e+04 16147 
+41 0.000434783 0.0147826 4 0 4 1.03e+01 7.42e+04 16153 
+42 0.000434783 0.0152174 5 0 4 1.04e+01 7.51e+04 16210 
+43 0.000434783 0.0156522 4 0 4 1.05e+01 7.61e+04 16222 
+44 0.000434783 0.016087 5 0 4 1.06e+01 7.70e+04 16252 
+45 0.000434783 0.0165217 5 0 4 1.07e+01 7.77e+04 16273 
+46 0.000434783 0.0169565 4 0 4 1.08e+01 7.85e+04 16297 
+47 0.000434783 0.0173913 4 0 4 1.09e+01 7.94e+04 16312 
+48 0.000434783 0.0178261 5 0 4 1.09e+01 8.03e+04 16336 
+49 0.000434783 0.0182609 4 0 4 1.11e+01 8.09e+04 16351 
+50 0.000434783 0.0186957 4 0 4 1.12e+01 8.17e+04 16366 
+51 0.000434783 0.0191304 4 0 4 1.12e+01 8.26e+04 16378 
+52 0.000434783 0.0195652 4 0 4 1.13e+01 8.33e+04 16402 
+53 0.000434783 0.02 4 0 4 1.14e+01 8.40e+04 16411 
+54 0.000454545 0.0204545 7 0 4 1.16e+01 8.44e+04 16435 
+55 0.000454545 0.0209091 6 0 4 1.17e+01 8.51e+04 16441 
+56 0.000454545 0.0213636 5 0 4 1.18e+01 8.58e+04 16453 
+57 0.000454545 0.0218182 4 0 4 1.19e+01 8.64e+04 16462 
+58 0.000454545 0.0222727 4 0 4 1.20e+01 8.71e+04 16465 
+59 0.000454545 0.0227273 4 0 4 1.21e+01 8.78e+04 16474 
+60 0.000454545 0.0231818 4 0 4 1.22e+01 8.85e+04 16489 
+61 0.000454545 0.0236364 4 0 4 1.23e+01 8.90e+04 16492 
+62 0.000454545 0.0240909 4 0 4 1.24e+01 8.97e+04 16498 
+63 0.000454545 0.0245455 4 0 4 1.24e+01 9.04e+04 16513 
+64 0.000454545 0.025 4 0 4 1.25e+01 9.11e+04 16525 
+65 0.000454545 0.0254545 4 0 4 1.26e+01 9.16e+04 16531 
+66 0.000454545 0.0259091 4 0 4 1.27e+01 9.22e+04 16528 
+67 0.000454545 0.0263636 4 0 4 1.28e+01 9.28e+04 16552 
+68 0.000454545 0.0268182 4 0 4 1.29e+01 9.34e+04 16561 
+69 0.000454545 0.0272727 4 0 4 1.30e+01 9.39e+04 16540 
+70 0.000454545 0.0277273 4 0 4 1.31e+01 9.45e+04 16549 
+71 0.000454545 0.0281818 4 0 4 1.32e+01 9.51e+04 16555 
+72 0.000454545 0.0286364 4 0 4 1.33e+01 9.57e+04 16549 
+73 0.000454545 0.0290909 4 0 4 1.34e+01 9.62e+04 16564 
+74 0.000454545 0.0295455 4 0 4 1.35e+01 9.67e+04 16585 
+75 0.000454545 0.03 4 0 4 1.36e+01 9.73e+04 16591 
+76 0.000454545 0.0304545 4 0 4 1.37e+01 9.76e+04 16591 
+77 0.000454545 0.0309091 4 0 4 1.38e+01 9.80e+04 16588 
+78 0.000454545 0.0313636 4 0 4 1.39e+01 9.86e+04 16576 
+79 0.000454545 0.0318182 4 0 4 1.40e+01 9.91e+04 16576 
+80 0.000454545 0.0322727 4 0 4 1.41e+01 9.97e+04 16561 
+81 0.000454545 0.0327273 4 0 4 1.42e+01 1.00e+05 16561 
+82 0.000454545 0.0331818 4 0 4 1.43e+01 1.01e+05 16567 
+83 0.000454545 0.0336364 4 0 4 1.44e+01 1.01e+05 16564 
+84 0.000454545 0.0340909 4 0 4 1.45e+01 1.02e+05 16576 
+85 0.000454545 0.0345455 4 0 4 1.46e+01 1.02e+05 16573 
+86 0.000454545 0.035 4 0 4 1.47e+01 1.02e+05 16558 
+87 0.000454545 0.0354545 4 0 4 1.48e+01 1.03e+05 16561 
+88 0.000454545 0.0359091 4 0 4 1.49e+01 1.03e+05 16564 
+89 0.000454545 0.0363636 4 0 4 1.50e+01 1.04e+05 16567 
+90 0.000454545 0.0368182 4 0 4 1.51e+01 1.04e+05 16570 
+91 0.000454545 0.0372727 4 0 4 1.52e+01 1.05e+05 16564 
+92 0.000454545 0.0377273 4 0 4 1.53e+01 1.05e+05 16564 
+93 0.000454545 0.0381818 4 0 4 1.54e+01 1.05e+05 16573 
+94 0.000454545 0.0386364 4 0 4 1.55e+01 1.06e+05 16558 
+95 0.000454545 0.0390909 4 0 4 1.56e+01 1.06e+05 16558 
+96 0.000454545 0.0395455 4 0 4 1.57e+01 1.07e+05 16555 
+97 0.000454545 0.04 4 0 4 1.58e+01 1.07e+05 16561 
+98 0.00047619 0.0404762 6 0 4 1.59e+01 1.07e+05 16573 
+99 0.00047619 0.0409524 6 0 4 1.60e+01 1.07e+05 16567 
+100 0.00047619 0.0414286 4 0 4 1.61e+01 1.08e+05 16570 
+101 0.00047619 0.0419048 4 0 4 1.62e+01 1.08e+05 16582 
+102 0.00047619 0.042381 3 0 4 1.63e+01 1.09e+05 16582 
+103 0.00047619 0.0428571 4 0 4 1.64e+01 1.09e+05 16585 
+104 0.00047619 0.0433333 4 0 4 1.65e+01 1.09e+05 16573 
+105 0.00047619 0.0438095 4 0 4 1.66e+01 1.10e+05 16576 
+106 0.00047619 0.0442857 4 0 4 1.67e+01 1.10e+05 16576 
+107 0.00047619 0.0447619 4 0 4 1.68e+01 1.10e+05 16573 
+108 0.00047619 0.0452381 4 0 4 1.69e+01 1.11e+05 16573 
+109 0.00047619 0.0457143 4 0 4 1.70e+01 1.11e+05 16564 
+110 0.00047619 0.0461905 4 0 4 1.71e+01 1.11e+05 16531 
+111 0.00047619 0.0466667 4 0 4 1.72e+01 1.12e+05 16531 
+112 0.00047619 0.0471429 4 0 4 1.73e+01 1.12e+05 16528 
+113 0.00047619 0.047619 4 0 4 1.74e+01 1.12e+05 16510 
+114 0.00047619 0.0480952 3 0 4 1.75e+01 1.13e+05 16510 
+115 0.00047619 0.0485714 4 0 4 1.76e+01 1.13e+05 16501 
+116 0.00047619 0.0490476 4 0 4 1.77e+01 1.13e+05 16495 
+117 0.00047619 0.0495238 4 0 4 1.78e+01 1.13e+05 16489 
+118 0.00047619 0.05 4 0 4 1.79e+01 1.14e+05 16471 
+119 0.00047619 0.0504762 4 0 4 1.80e+01 1.14e+05 16462 
+120 0.00047619 0.0509524 4 0 4 1.81e+01 1.14e+05 16456 
+121 0.00047619 0.0514286 3 0 4 1.83e+01 1.14e+05 16456 
+122 0.00047619 0.0519048 4 0 4 1.84e+01 1.15e+05 16444 
+123 0.00047619 0.052381 4 0 4 1.85e+01 1.15e+05 16441 
+124 0.00047619 0.0528571 4 0 4 1.85e+01 1.15e+05 16420 
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, image2pipe, from 'pipe:':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: ppm, rgb24, 512x512, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Stream mapping:
+  Stream #0:0 -> #0:0 (ppm (native) -> h264 (libx264))
+[libx264 @ 0x80ba580] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x80ba580] profile High, level 3.0, 4:2:0, 8-bit
+Output #0, mpegts, to 'f.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264, yuv420p(tv, progressive), 512x512, q=2-31, 25 fps, 90k tbn
+    Metadata:
+      encoder         : Lavc58.134.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    1 fps=0.0 q=15.0 size=       3kB time=00:00:00.00 bitrate=1914181.8kbits/s speed=N/A    frame=   10 fps=0.0 q=13.0 size=       7kB time=00:00:00.36 bitrate= 154.6kbits/s speed=0.428x    frame=   12 fps=7.6 q=13.0 size=       8kB time=00:00:00.44 bitrate= 140.1kbits/s speed=0.277x    frame=   14 fps=6.0 q=13.0 size=       9kB time=00:00:00.52 bitrate= 138.8kbits/s speed=0.221x    frame=   16 fps=5.0 q=13.0 size=      10kB time=00:00:00.60 bitrate= 135.4kbits/s speed=0.189x    frame=   18 fps=4.6 q=13.0 size=      11kB time=00:00:00.68 bitrate= 128.3kbits/s speed=0.172x    frame=   20 fps=4.2 q=13.0 size=      12kB time=00:00:00.76 bitrate= 126.7kbits/s speed=0.16x    frame=   22 fps=4.0 q=13.0 size=      13kB time=00:00:00.84 bitrate= 125.3kbits/s speed=0.152x    frame=   24 fps=3.8 q=13.0 size=      14kB time=00:00:00.92 bitrate= 121.0kbits/s speed=0.146x    frame=   26 fps=3.6 q=13.0 size=      15kB time=00:00:01.00 bitrate= 120.3kbits/s speed=0.14x    frame=   28 fps=3.5 q=13.0 size=      16kB time=00:00:01.08 bitrate= 121.2kbits/s speed=0.136x    frame=   30 fps=3.4 q=13.0 size=      17kB time=00:00:01.16 bitrate= 118.0kbits/s speed=0.133x    Error while decoding stream #0:0: Invalid data found when processing input
+frame=   31 fps=3.2 q=13.0 size=      17kB time=00:00:01.20 bitrate= 119.1kbits/s speed=0.125x    frame=   31 fps=3.2 q=13.0 Lsize=      17kB time=00:00:01.20 bitrate= 119.1kbits/s speed=0.124x    
+video:7kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 133.586182%
+[libx264 @ 0x80ba580] frame I:1     Avg QP: 0.12  size:  1822
+[libx264 @ 0x80ba580] frame P:30    Avg QP: 0.35  size:   194
+[libx264 @ 0x80ba580] mb I  I16..4: 99.4%  0.0%  0.6%
+[libx264 @ 0x80ba580] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+[libx264 @ 0x80ba580] 8x8 transform intra:0.0% inter:5.9%
+[libx264 @ 0x80ba580] coded y,uvDC,uvAC intra: 0.3% 1.6% 0.8% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x80ba580] i16 v,h,dc,p: 75%  0% 25%  0%
+[libx264 @ 0x80ba580] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 86%  3%  1%  2%  1%  2%  4%
+[libx264 @ 0x80ba580] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x80ba580] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x80ba580] ref P L0: 94.7%  0.0%  5.3%
+[libx264 @ 0x80ba580] kb/s:49.33
+Exiting normally, received signal 2.
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  configuration: --prefix=/usr --extra-version=0ubuntu0.22.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 70.100 / 56. 70.100
+  libavcodec     58.134.100 / 58.134.100
+  libavformat    58. 76.100 / 58. 76.100
+  libavdevice    58. 13.100 / 58. 13.100
+  libavfilter     7.110.100 /  7.110.100
+  libswscale      5.  9.100 /  5.  9.100
+  libswresample   3.  9.100 /  3.  9.100
+  libpostproc    55.  9.100 / 55.  9.100
+Input #0, image2pipe, from 'pipe:':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: ppm, rgb24, 600x600, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Stream mapping:
+  Stream #0:0 -> #0:0 (ppm (native) -> h264 (libx264))
+[libx264 @ 0x80ba180] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x80ba180] profile High, level 3.0, 4:2:0, 8-bit
+Output #0, mpegts, to 'movie.mp4':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: h264, yuv420p(tv, progressive), 600x600, q=2-31, 25 fps, 90k tbn
+    Metadata:
+      encoder         : Lavc58.134.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    1 fps=0.0 q=15.0 size=       3kB time=00:00:00.00 bitrate=2050909.1kbits/s speed=  11x    Error while decoding stream #0:0: Invalid data found when processing input
+frame=    5 fps=0.0 q=13.0 Lsize=       4kB time=00:00:00.16 bitrate= 225.6kbits/s speed=0.206x    
+video:3kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 64.072731%
+[libx264 @ 0x80ba180] frame I:1     Avg QP: 1.20  size:  2033
+[libx264 @ 0x80ba180] frame P:4     Avg QP: 0.90  size:   179
+[libx264 @ 0x80ba180] mb I  I16..4: 98.2%  0.0%  1.8%
+[libx264 @ 0x80ba180] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+[libx264 @ 0x80ba180] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0x80ba180] coded y,uvDC,uvAC intra: 0.8% 0.9% 0.7% inter: 0.0% 0.1% 0.0%
+[libx264 @ 0x80ba180] i16 v,h,dc,p: 78%  4% 18%  0%
+[libx264 @ 0x80ba180] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 38% 21% 36%  2%  1%  1%  0%  0%  0%
+[libx264 @ 0x80ba180] i8c dc,h,v,p: 99%  1%  0%  0%
+[libx264 @ 0x80ba180] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x80ba180] ref P L0: 70.0% 30.0%
+[libx264 @ 0x80ba180] kb/s:110.00
+Exiting normally, received signal 2.
+/home/parthib/basilisk/src/curvature.h:16:error: [Detaching after vfork from child process 4574]
+/home/parthib/basilisk/src/curvature.h:16:error: [Detaching after vfork from child process 4581]
+/home/parthib/basilisk/src/curvature.h:16:error: Program received signal SIGINT, Interrupt.

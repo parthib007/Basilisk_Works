@@ -1,0 +1,12 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	drop3d.c \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	drop3d.c.page \
+

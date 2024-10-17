@@ -1,0 +1,17 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	dropvel.c \
+	mwe.c \
+	test.c \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	adapt_wavelet_limited.h.page \
+	dropvel.c.page \
+	mwe.c.page \
+	test.c.page \
+

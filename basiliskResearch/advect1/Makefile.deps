@@ -1,0 +1,32 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	advect1.c \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	advect1.c.page \
+
+advect1.s:	\
+	/home/parthib/basilisk/src/grid/cartesian1D.h \
+	/home/parthib/basilisk/src/run.h \
+	/home/parthib/basilisk/src/utils.h \
+	/home/parthib/basilisk/src/output.h \
+	/home/parthib/basilisk/src/grid/cartesian-common.h \
+	/home/parthib/basilisk/src/grid/events.h \
+	/home/parthib/basilisk/src/grid/fpe.h \
+	/home/parthib/basilisk/src/common.h \
+
+advect1.c.tags:	\
+	/home/parthib/basilisk/src/grid/cartesian1D.h \
+	/home/parthib/basilisk/src/run.h \
+	/home/parthib/basilisk/src/utils.h \
+	/home/parthib/basilisk/src/output.h \
+	/home/parthib/basilisk/src/grid/cartesian-common.h \
+	/home/parthib/basilisk/src/grid/events.h \
+	/home/parthib/basilisk/src/grid/fpe.h \
+	/home/parthib/basilisk/src/common.h \
+

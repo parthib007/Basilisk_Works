@@ -1,0 +1,34 @@
+qcc -autolink -O2 -g -Wall -Wno-unused-function -pipe -D_FORTIFY_SOURCE=2 -o conway/conway conway.c  -lm
+.qccipAha5/conway.c:1:7: warning: line number out of range
+conway-cpp.c: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+/home/parthib/basilisk/src/poisson.h: In function ‘mg_cycle’:
+/home/parthib/basilisk/src/poisson.h:42:3: warning: implicit declaration of function ‘restriction’ [-Wimplicit-function-declaration]
+/home/parthib/basilisk/src/poisson.h:55:8: warning: implicit declaration of function ‘foreach_level_or_leaf’ [-Wimplicit-function-declaration]
+/home/parthib/basilisk/src/poisson.h:55:33: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h:65:8: warning: implicit declaration of function ‘foreach_level’; did you mean ‘foreach_vertex’? [-Wimplicit-function-declaration]
+/home/parthib/basilisk/src/poisson.h:65:25: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h: In function ‘relax’:
+/home/parthib/basilisk/src/poisson.h:303:79: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h:303:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h:303:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h:303:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/poisson.h:296:10: warning: unused variable ‘c’ [-Wunused-variable]
+/home/parthib/basilisk/src/poisson.h:276:21: warning: unused variable ‘b’ [-Wunused-variable]
+/home/parthib/basilisk/src/viscosity.h: In function ‘relax_viscosity’:
+/home/parthib/basilisk/src/viscosity.h:39:73: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/viscosity.h:39:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/viscosity.h:39:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/viscosity.h:39:26: error: expected ‘;’ before ‘{’ token
+/home/parthib/basilisk/src/viscosity.h:36:10: warning: unused variable ‘w’ [-Wunused-variable]
+/home/parthib/basilisk/src/viscosity.h:31:38: warning: unused variable ‘r’ [-Wunused-variable]
+/home/parthib/basilisk/src/viscosity.h:30:10: warning: unused variable ‘dt’ [-Wunused-variable]
+conway.c: In function ‘movie’:
+conway.c:77:39: warning: initialization of ‘int’ from ‘char *’ makes integer from pointer without a cast [-Wint-conversion]
+conway.c:77:39: note: (near initialization for ‘(anonymous).f.i’)
+conway.c:77:20: warning: missing braces around initializer [-Wmissing-braces]
+conway.c:80:39: warning: initialization of ‘int’ from ‘char *’ makes integer from pointer without a cast [-Wint-conversion]
+conway.c:80:39: note: (near initialization for ‘(anonymous).f.i’)
+conway.c:80:20: warning: missing braces around initializer [-Wmissing-braces]
+make: *** [conway.s] Error 1

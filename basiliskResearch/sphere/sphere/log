@@ -1,0 +1,546 @@
+--------------------------------------------------------------------------
+WARNING: Linux kernel CMA support was requested via the
+btl_vader_single_copy_mechanism MCA variable, but CMA support is
+not available due to restrictive ptrace settings.
+
+The vader shared memory BTL will fall back on another single-copy
+mechanism if one is available. This may result in lower performance.
+
+  Local host: LAPTOP-S03SJBKD
+--------------------------------------------------------------------------
+0 0 0 0
+[LAPTOP-S03SJBKD:02929] 3 more processes have sent help message help-btl-vader.txt / cma-permission-denied
+[LAPTOP-S03SJBKD:02929] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+# refined 170 cells, coarsened 32816 cells
+1 0.00454545 3 1
+# refined 112 cells, coarsened 4032 cells
+2 0.0152174 4 1
+# refined 0 cells, coarsened 0 cells
+3 0.0282609 2 1
+# refined 12 cells, coarsened 0 cells
+4 0.0430435 2 1
+# refined 36 cells, coarsened 0 cells
+5 0.0589632 2 1
+# refined 0 cells, coarsened 0 cells
+6 0.0763302 2 1
+# refined 16 cells, coarsened 0 cells
+7 0.0956268 2 1
+# refined 16 cells, coarsened 0 cells
+8 0.114923 2 1
+# refined 24 cells, coarsened 0 cells
+9 0.137436 2 1
+# refined 8 cells, coarsened 0 cells
+10 0.159949 2 1
+# refined 0 cells, coarsened 0 cells
+11 0.182462 2 1
+# refined 20 cells, coarsened 0 cells
+12 0.204974 2 1
+# refined 8 cells, coarsened 0 cells
+13 0.227487 2 1
+# refined 16 cells, coarsened 0 cells
+14 0.25 1 1
+# refined 24 cells, coarsened 0 cells
+15 0.277778 2 1
+# refined 12 cells, coarsened 0 cells
+16 0.305556 2 1
+# refined 8 cells, coarsened 0 cells
+17 0.333333 1 1
+# refined 24 cells, coarsened 0 cells
+18 0.361111 2 1
+# refined 4 cells, coarsened 0 cells
+19 0.388889 1 1
+# refined 0 cells, coarsened 0 cells
+20 0.416667 1 1
+# refined 24 cells, coarsened 0 cells
+21 0.444444 1 1
+# refined 16 cells, coarsened 0 cells
+22 0.472222 1 1
+# refined 16 cells, coarsened 0 cells
+23 0.5 1 1
+# refined 28 cells, coarsened 0 cells
+24 0.53125 2 1
+# refined 4 cells, coarsened 0 cells
+25 0.5625 1 1
+# refined 16 cells, coarsened 0 cells
+26 0.59375 1 1
+# refined 0 cells, coarsened 0 cells
+27 0.625 1 1
+# refined 1 cells, coarsened 0 cells
+28 0.65625 1 1
+# refined 18 cells, coarsened 0 cells
+29 0.6875 1 1
+# refined 33 cells, coarsened 0 cells
+30 0.71875 1 1
+# refined 8 cells, coarsened 0 cells
+31 0.75 1 1
+# refined 8 cells, coarsened 0 cells
+32 0.785714 2 1
+# refined 8 cells, coarsened 0 cells
+33 0.821429 1 1
+# refined 4 cells, coarsened 0 cells
+34 0.857143 1 1
+# refined 24 cells, coarsened 0 cells
+35 0.892857 1 1
+# refined 32 cells, coarsened 0 cells
+36 0.928571 1 1
+# refined 32 cells, coarsened 0 cells
+37 0.964286 1 1
+# refined 8 cells, coarsened 0 cells
+38 1 1 1
+# refined 9 cells, coarsened 0 cells
+39 1.03571 1 1
+# refined 10 cells, coarsened 0 cells
+40 1.07143 1 1
+# refined 1 cells, coarsened 0 cells
+41 1.10714 1 1
+# refined 12 cells, coarsened 0 cells
+42 1.14286 1 1
+# refined 12 cells, coarsened 0 cells
+43 1.17857 1 1
+# refined 8 cells, coarsened 0 cells
+44 1.21429 1 1
+# refined 17 cells, coarsened 0 cells
+45 1.25 1 1
+# refined 33 cells, coarsened 0 cells
+46 1.28571 1 1
+# refined 33 cells, coarsened 0 cells
+47 1.32143 1 1
+# refined 9 cells, coarsened 0 cells
+48 1.35714 1 1
+# refined 3 cells, coarsened 0 cells
+49 1.39286 1 1
+# refined 22 cells, coarsened 0 cells
+50 1.42857 1 1
+# refined 6 cells, coarsened 0 cells
+51 1.46429 1 1
+# refined 9 cells, coarsened 0 cells
+52 1.5 1 1
+# refined 9 cells, coarsened 0 cells
+53 1.53571 1 1
+# refined 27 cells, coarsened 0 cells
+54 1.57143 1 1
+# refined 8 cells, coarsened 0 cells
+55 1.60714 1 1
+# refined 10 cells, coarsened 0 cells
+56 1.64286 1 1
+# refined 35 cells, coarsened 0 cells
+57 1.67857 1 1
+# refined 26 cells, coarsened 6 cells
+58 1.71429 1 1
+# refined 19 cells, coarsened 0 cells
+59 1.75 1 1
+# refined 6 cells, coarsened 0 cells
+60 1.78571 1 1
+# refined 12 cells, coarsened 0 cells
+61 1.82143 1 1
+# refined 10 cells, coarsened 0 cells
+62 1.85714 1 1
+# refined 12 cells, coarsened 0 cells
+63 1.89286 1 1
+# refined 16 cells, coarsened 0 cells
+64 1.92857 1 1
+# refined 2 cells, coarsened 0 cells
+65 1.96429 1 1
+# refined 24 cells, coarsened 0 cells
+66 2 1 1
+# refined 14 cells, coarsened 0 cells
+67 2.03571 1 1
+# refined 4 cells, coarsened 0 cells
+68 2.07143 1 1
+# refined 10 cells, coarsened 0 cells
+69 2.10714 1 1
+# refined 12 cells, coarsened 0 cells
+70 2.14286 1 1
+# refined 26 cells, coarsened 0 cells
+71 2.17857 1 1
+# refined 20 cells, coarsened 0 cells
+72 2.21429 1 1
+# refined 0 cells, coarsened 0 cells
+73 2.25 1 1
+# refined 4 cells, coarsened 0 cells
+74 2.28571 1 1
+# refined 6 cells, coarsened 0 cells
+75 2.32143 1 1
+# refined 15 cells, coarsened 0 cells
+76 2.35714 1 1
+# refined 31 cells, coarsened 5 cells
+77 2.39286 1 1
+# refined 17 cells, coarsened 3 cells
+78 2.42857 1 1
+# refined 6 cells, coarsened 0 cells
+79 2.46429 1 1
+# refined 10 cells, coarsened 0 cells
+80 2.5 1 1
+# refined 15 cells, coarsened 0 cells
+81 2.53571 1 1
+# refined 5 cells, coarsened 0 cells
+82 2.57143 1 1
+# refined 13 cells, coarsened 0 cells
+83 2.60714 1 1
+# refined 13 cells, coarsened 0 cells
+84 2.64286 1 1
+# refined 16 cells, coarsened 3 cells
+85 2.67857 1 1
+# refined 7 cells, coarsened 0 cells
+86 2.71429 1 1
+# refined 12 cells, coarsened 0 cells
+87 2.75 1 1
+# refined 16 cells, coarsened 0 cells
+88 2.78571 1 1
+# refined 1 cells, coarsened 0 cells
+89 2.82143 1 1
+# refined 25 cells, coarsened 0 cells
+90 2.85714 1 1
+# refined 31 cells, coarsened 0 cells
+91 2.89286 1 1
+# refined 11 cells, coarsened 0 cells
+92 2.92857 1 1
+# refined 9 cells, coarsened 0 cells
+93 2.96429 1 1
+# refined 8 cells, coarsened 0 cells
+94 3 1 1
+# refined 0 cells, coarsened 4 cells
+95 3.03571 1 1
+# refined 11 cells, coarsened 0 cells
+96 3.07143 1 1
+# refined 5 cells, coarsened 3 cells
+97 3.10714 1 1
+# refined 20 cells, coarsened 0 cells
+98 3.14286 1 1
+# refined 10 cells, coarsened 0 cells
+99 3.17857 1 1
+# refined 13 cells, coarsened 0 cells
+100 3.21429 1 1
+# refined 2 cells, coarsened 0 cells
+101 3.25 1 1
+# refined 21 cells, coarsened 0 cells
+102 3.28571 1 1
+# refined 24 cells, coarsened 0 cells
+103 3.32143 1 1
+# refined 19 cells, coarsened 0 cells
+104 3.35714 1 1
+# refined 17 cells, coarsened 0 cells
+105 3.39286 1 1
+# refined 26 cells, coarsened 0 cells
+106 3.42857 1 1
+# refined 15 cells, coarsened 0 cells
+107 3.46429 1 1
+# refined 19 cells, coarsened 2 cells
+108 3.5 1 1
+# refined 24 cells, coarsened 3 cells
+109 3.53571 1 1
+# refined 9 cells, coarsened 3 cells
+110 3.57143 1 1
+# refined 4 cells, coarsened 0 cells
+111 3.60714 1 1
+# refined 16 cells, coarsened 4 cells
+112 3.64286 1 1
+# refined 10 cells, coarsened 8 cells
+113 3.67857 1 1
+# refined 13 cells, coarsened 0 cells
+114 3.71429 1 1
+# refined 17 cells, coarsened 0 cells
+115 3.75 1 1
+# refined 5 cells, coarsened 0 cells
+116 3.78571 1 1
+# refined 16 cells, coarsened 0 cells
+117 3.82143 1 1
+# refined 19 cells, coarsened 0 cells
+118 3.85714 1 1
+# refined 10 cells, coarsened 0 cells
+119 3.89286 1 1
+# refined 32 cells, coarsened 0 cells
+120 3.92857 1 1
+# refined 15 cells, coarsened 1 cells
+121 3.96429 1 1
+# refined 6 cells, coarsened 3 cells
+122 4 1 1
+# refined 27 cells, coarsened 2 cells
+123 4.04167 1 1
+# refined 20 cells, coarsened 0 cells
+124 4.08333 1 1
+# refined 3 cells, coarsened 12 cells
+125 4.125 1 1
+# refined 22 cells, coarsened 2 cells
+126 4.16667 1 1
+# refined 18 cells, coarsened 6 cells
+127 4.20833 1 1
+# refined 10 cells, coarsened 0 cells
+128 4.25 1 1
+# refined 7 cells, coarsened 0 cells
+129 4.29167 1 1
+# refined 9 cells, coarsened 0 cells
+130 4.33333 1 1
+# refined 2 cells, coarsened 0 cells
+131 4.375 1 1
+# refined 21 cells, coarsened 4 cells
+132 4.41667 1 1
+# refined 21 cells, coarsened 0 cells
+133 4.45833 1 1
+# refined 18 cells, coarsened 4 cells
+134 4.5 1 1
+# refined 10 cells, coarsened 0 cells
+135 4.54167 1 1
+# refined 18 cells, coarsened 0 cells
+136 4.58333 1 1
+# refined 32 cells, coarsened 0 cells
+137 4.625 1 1
+# refined 21 cells, coarsened 0 cells
+138 4.66667 1 1
+# refined 18 cells, coarsened 0 cells
+139 4.70833 1 1
+# refined 9 cells, coarsened 5 cells
+140 4.75 1 1
+# refined 9 cells, coarsened 3 cells
+141 4.79167 1 1
+# refined 12 cells, coarsened 3 cells
+142 4.83333 1 1
+# refined 6 cells, coarsened 26 cells
+143 4.875 1 1
+# refined 15 cells, coarsened 9 cells
+144 4.91667 1 1
+# refined 23 cells, coarsened 4 cells
+145 4.95833 1 1
+# refined 19 cells, coarsened 0 cells
+146 5 1 1
+# refined 7 cells, coarsened 0 cells
+147 5.04167 1 1
+# refined 2 cells, coarsened 0 cells
+148 5.08333 1 1
+# refined 34 cells, coarsened 1 cells
+149 5.125 1 1
+# refined 18 cells, coarsened 7 cells
+150 5.16667 1 1
+# refined 11 cells, coarsened 0 cells
+151 5.20833 1 1
+# refined 19 cells, coarsened 0 cells
+152 5.25 1 1
+# refined 26 cells, coarsened 2 cells
+153 5.29167 1 1
+# refined 23 cells, coarsened 5 cells
+154 5.33333 1 1
+# refined 13 cells, coarsened 5 cells
+155 5.375 1 1
+# refined 4 cells, coarsened 11 cells
+156 5.41667 1 1
+# refined 7 cells, coarsened 0 cells
+157 5.45833 1 1
+# refined 4 cells, coarsened 0 cells
+158 5.5 1 1
+# refined 5 cells, coarsened 0 cells
+159 5.54167 1 1
+# refined 29 cells, coarsened 1 cells
+160 5.58333 1 1
+# refined 11 cells, coarsened 9 cells
+161 5.625 1 1
+# refined 9 cells, coarsened 4 cells
+162 5.66667 1 1
+# refined 16 cells, coarsened 8 cells
+163 5.70833 1 1
+# refined 17 cells, coarsened 4 cells
+164 5.75 1 1
+# refined 15 cells, coarsened 1 cells
+165 5.79167 1 1
+# refined 29 cells, coarsened 6 cells
+166 5.83333 1 1
+# refined 11 cells, coarsened 11 cells
+167 5.875 1 1
+# refined 22 cells, coarsened 15 cells
+168 5.91667 1 1
+# refined 13 cells, coarsened 5 cells
+169 5.95833 1 1
+# refined 5 cells, coarsened 0 cells
+170 6 1 1
+# refined 18 cells, coarsened 0 cells
+171 6.04167 1 1
+# refined 3 cells, coarsened 0 cells
+172 6.08333 1 1
+# refined 17 cells, coarsened 0 cells
+173 6.125 1 1
+# refined 12 cells, coarsened 2 cells
+174 6.16667 1 1
+# refined 13 cells, coarsened 1 cells
+175 6.20833 1 1
+# refined 4 cells, coarsened 0 cells
+176 6.25 1 1
+# refined 7 cells, coarsened 0 cells
+177 6.29167 1 1
+# refined 30 cells, coarsened 0 cells
+178 6.33333 1 1
+# refined 27 cells, coarsened 4 cells
+179 6.375 1 1
+# refined 7 cells, coarsened 19 cells
+180 6.41667 1 1
+# refined 9 cells, coarsened 0 cells
+181 6.45833 1 1
+# refined 19 cells, coarsened 0 cells
+182 6.5 1 1
+# refined 29 cells, coarsened 0 cells
+183 6.54167 1 1
+# refined 19 cells, coarsened 4 cells
+184 6.58333 1 1
+# refined 15 cells, coarsened 24 cells
+185 6.625 1 1
+# refined 10 cells, coarsened 23 cells
+186 6.66667 1 1
+# refined 10 cells, coarsened 2 cells
+187 6.70833 1 1
+# refined 26 cells, coarsened 12 cells
+188 6.75 1 1
+# refined 10 cells, coarsened 0 cells
+189 6.79167 1 1
+# refined 16 cells, coarsened 13 cells
+190 6.83333 1 1
+# refined 11 cells, coarsened 19 cells
+191 6.875 1 1
+# refined 19 cells, coarsened 26 cells
+192 6.91667 1 1
+# refined 28 cells, coarsened 13 cells
+193 6.95833 1 1
+# refined 13 cells, coarsened 4 cells
+194 7 1 1
+# refined 6 cells, coarsened 1 cells
+195 7.04167 1 1
+# refined 14 cells, coarsened 0 cells
+196 7.08333 1 1
+# refined 14 cells, coarsened 0 cells
+197 7.125 1 1
+# refined 9 cells, coarsened 1 cells
+198 7.16667 1 1
+# refined 12 cells, coarsened 5 cells
+199 7.20833 1 1
+# refined 14 cells, coarsened 1 cells
+200 7.25 1 1
+# refined 19 cells, coarsened 6 cells
+201 7.29167 1 1
+# refined 7 cells, coarsened 0 cells
+202 7.33333 1 1
+# refined 17 cells, coarsened 0 cells
+203 7.375 1 1
+# refined 17 cells, coarsened 4 cells
+204 7.41667 1 1
+# refined 20 cells, coarsened 17 cells
+205 7.45833 1 1
+# refined 19 cells, coarsened 1 cells
+206 7.5 1 1
+# refined 26 cells, coarsened 7 cells
+207 7.54167 1 1
+# refined 13 cells, coarsened 11 cells
+208 7.58333 1 1
+# refined 6 cells, coarsened 5 cells
+209 7.625 1 1
+# refined 15 cells, coarsened 4 cells
+210 7.66667 1 1
+# refined 12 cells, coarsened 16 cells
+211 7.70833 1 1
+# refined 23 cells, coarsened 8 cells
+212 7.75 1 1
+# refined 17 cells, coarsened 0 cells
+213 7.79167 1 1
+# refined 15 cells, coarsened 17 cells
+214 7.83333 1 1
+# refined 17 cells, coarsened 5 cells
+215 7.875 1 1
+# refined 15 cells, coarsened 1 cells
+216 7.91667 1 1
+# refined 8 cells, coarsened 19 cells
+217 7.95833 1 1
+# refined 16 cells, coarsened 13 cells
+218 8 1 1
+# refined 15 cells, coarsened 6 cells
+219 8.04167 1 1
+# refined 18 cells, coarsened 11 cells
+220 8.08333 1 1
+# refined 14 cells, coarsened 10 cells
+221 8.125 1 1
+# refined 12 cells, coarsened 2 cells
+222 8.16667 1 1
+# refined 9 cells, coarsened 19 cells
+223 8.20833 1 1
+# refined 17 cells, coarsened 14 cells
+224 8.25 1 1
+# refined 14 cells, coarsened 16 cells
+225 8.29167 1 1
+# refined 4 cells, coarsened 2 cells
+226 8.33333 1 1
+# refined 19 cells, coarsened 0 cells
+227 8.375 1 1
+# refined 20 cells, coarsened 3 cells
+228 8.41667 1 1
+# refined 26 cells, coarsened 10 cells
+229 8.45833 1 1
+# refined 14 cells, coarsened 20 cells
+230 8.5 1 1
+# refined 9 cells, coarsened 10 cells
+231 8.54167 1 1
+# refined 10 cells, coarsened 10 cells
+232 8.58333 1 1
+# refined 14 cells, coarsened 11 cells
+233 8.625 1 1
+# refined 15 cells, coarsened 27 cells
+234 8.66667 1 1
+# refined 30 cells, coarsened 6 cells
+235 8.70833 1 1
+# refined 21 cells, coarsened 7 cells
+236 8.75 1 1
+# refined 33 cells, coarsened 8 cells
+237 8.79167 1 1
+# refined 4 cells, coarsened 34 cells
+238 8.83333 1 1
+# refined 4 cells, coarsened 9 cells
+239 8.875 1 1
+# refined 12 cells, coarsened 11 cells
+240 8.91667 1 1
+# refined 13 cells, coarsened 6 cells
+241 8.95833 1 1
+# refined 18 cells, coarsened 26 cells
+242 9 1 1
+# refined 11 cells, coarsened 6 cells
+243 9.04167 1 1
+# refined 9 cells, coarsened 25 cells
+244 9.08333 1 1
+# refined 8 cells, coarsened 1 cells
+245 9.125 1 1
+# refined 15 cells, coarsened 12 cells
+246 9.16667 1 1
+# refined 16 cells, coarsened 12 cells
+247 9.20833 1 1
+# refined 19 cells, coarsened 26 cells
+248 9.25 1 1
+# refined 10 cells, coarsened 6 cells
+249 9.29167 1 1
+# refined 22 cells, coarsened 16 cells
+250 9.33333 1 1
+# refined 21 cells, coarsened 4 cells
+251 9.375 1 1
+# refined 16 cells, coarsened 18 cells
+252 9.41667 1 1
+# refined 12 cells, coarsened 10 cells
+253 9.45833 1 1
+# refined 10 cells, coarsened 10 cells
+254 9.5 1 1
+# refined 7 cells, coarsened 4 cells
+255 9.54167 1 1
+# refined 4 cells, coarsened 3 cells
+256 9.58333 1 1
+# refined 18 cells, coarsened 5 cells
+257 9.625 1 1
+# refined 17 cells, coarsened 9 cells
+258 9.66667 1 1
+# refined 18 cells, coarsened 8 cells
+259 9.70833 1 1
+# refined 13 cells, coarsened 8 cells
+260 9.75 1 1
+# refined 11 cells, coarsened 3 cells
+261 9.79167 1 1
+# refined 8 cells, coarsened 11 cells
+262 9.83333 1 1
+# refined 15 cells, coarsened 0 cells
+263 9.875 1 1
+# refined 23 cells, coarsened 5 cells
+264 9.91667 1 1
+# refined 12 cells, coarsened 27 cells
+265 9.95833 1 1
+# refined 11 cells, coarsened 8 cells
+266 10 1 1
+# refined 14 cells, coarsened 12 cells

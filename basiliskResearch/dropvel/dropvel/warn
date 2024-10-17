@@ -1,0 +1,6 @@
+dropvel.c:144:1: warning: "/*" within comment [-Wcomment]
+dropvel.c:163:1: warning: "/*" within comment [-Wcomment]
+.qcciuz2Hl/dropvel.c:1:7: warning: line number out of range
+/mnt/e/basiliskResearch/dropvel/.qcciuz2Hl//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range

@@ -1,0 +1,6 @@
+sine.c:145:1: warning: "/*" within comment [-Wcomment]
+sine.c:164:1: warning: "/*" within comment [-Wcomment]
+.qccfeFuWZ/sine.c:1:7: warning: line number out of range
+/mnt/d/iitj/basiliskResearch/sine/.qccfeFuWZ//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range

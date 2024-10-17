@@ -1,0 +1,8 @@
+warning: opening /proc/PID/mem file for lwp 391.391 failed: No such file or directory (2)
+Failed to read a valid object file image from memory.
+warning: opening /proc/PID/mem file for lwp 394.394 failed: No such file or directory (2)
+warning: opening /proc/PID/mem file for lwp 402.402 failed: No such file or directory (2)
+warning: opening /proc/PID/mem file for lwp 420.420 failed: No such file or directory (2)
+warning: opening /proc/PID/mem file for lwp 430.430 failed: No such file or directory (2)
+warning: opening /proc/PID/mem file for lwp 442.442 failed: No such file or directory (2)
+warning: opening /proc/PID/mem file for lwp 444.444 failed: No such file or directory (2)

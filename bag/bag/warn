@@ -1,0 +1,5 @@
+bag.c:262:1: warning: "/*" within comment [-Wcomment]
+.qcczP2zaC/bag.c:1:7: warning: line number out of range
+/mnt/d/iitj/bag/.qcczP2zaC//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range

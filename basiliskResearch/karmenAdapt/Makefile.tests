@@ -1,0 +1,13 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	karmenAdapt.c \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	adapt-values.h.page \
+	karmenAdapt.c.page \
+

@@ -1,0 +1,12 @@
+# Automatically generated using 'make Makefile.tests'
+# DO NOT EDIT, edit 'Makefile' instead
+ALLTESTS = \
+	nondimen.c \
+
+TESTS = \
+
+SPECIAL_TESTS = \
+
+ALLPAGES = \
+	nondimen.c.page \
+

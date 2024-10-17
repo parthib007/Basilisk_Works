@@ -1,0 +1,623 @@
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.38486e-05 sum: -2.50681 nrelax: 92
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.32305e-05 sum: -3.34322 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00013578 sum: 17.6065 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.06475e-05 sum: 6.97821 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.41188e-05 sum: -0.533881 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.22495e-05 sum: 0.725755 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.5043e-05 sum: -3.71818 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.97532e-05 sum: -0.759942 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000409944 sum: 0.288574 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000224742 sum: 0.677119 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000175709 sum: 5.09457 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.14734e-05 sum: -4.36399 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000290374 sum: -0.604266 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000153437 sum: -1.83442 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000188336 sum: -24.7097 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.96636e-05 sum: 1.89747 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000318956 sum: -23.5903 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.21328e-05 sum: 1.25357 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.55485e-05 sum: -13.0026 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000746004 sum: -50.9498 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.42377e-05 sum: 14.92 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.74636e-06 sum: -0.0160878 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.00824e-05 sum: -0.743575 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000130516 sum: -0.273388 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.55759e-05 sum: -0.575543 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000103328 sum: -1.881 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.73468e-06 sum: -0.965654 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.85175e-05 sum: -0.226512 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.03384e-05 sum: 2.139 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000122107 sum: 3.23305 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000218444 sum: 1.86334 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00016612 sum: -6.55775 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.37532e-06 sum: 1.28404 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.35606e-06 sum: -4.76939 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.05398e-05 sum: -9.60382 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.62218e-05 sum: -16.2599 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.3803e-06 sum: -1.28141 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.69643e-05 sum: 8.39895 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.20251e-06 sum: 0.433089 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000182135 sum: 0.202934 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000199615 sum: -0.642945 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.23435e-05 sum: 0.0238778 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.38346e-06 sum: -24.7999 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.59507e-05 sum: 12.8055 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000663486 sum: 2.15878 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000283134 sum: 0.542727 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.26262e-05 sum: 0.967568 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000112199 sum: 1.31487 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.38729e-06 sum: -7.28602 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.17351e-05 sum: 0.055002 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.04823e-06 sum: -1.92188 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.05157e-06 sum: -0.603479 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.3561e-06 sum: 1.48442 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.66121e-06 sum: 0.768054 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.20509e-06 sum: -0.622338 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.14977e-06 sum: -44.1479 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.79309e-06 sum: -0.108331 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.88383e-05 sum: 0.732374 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.57784e-06 sum: -22.8837 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.93396e-06 sum: -2.91727 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000394648 sum: 3.18691 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.16475e-06 sum: -2.21778 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000181995 sum: -1.31474 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000138003 sum: 3.8357 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.67766e-06 sum: -9.89757 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.04947e-06 sum: -1.56594 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00014303 sum: -0.367276 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000246034 sum: -23.1322 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.76394e-05 sum: 5.21546 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.63675e-05 sum: -0.499618 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.20849e-06 sum: -0.941908 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.27354e-06 sum: -17.5781 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.39884e-06 sum: -0.448666 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.19121e-06 sum: 1.10126 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.4244e-05 sum: 0.292361 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000118735 sum: -0.130946 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.19406e-05 sum: 1.92321 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000313719 sum: 1.15476 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.56441e-06 sum: 7.58072 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.9352e-06 sum: 0.430634 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000797394 sum: -31.7716 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.29195e-06 sum: 4.73813 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.02396e-06 sum: 1.24398 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.59319e-05 sum: 0.398904 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000154304 sum: 0.265782 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.89999e-06 sum: 0.225872 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.77646e-05 sum: 0.201831 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.04493e-05 sum: 0.320703 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.34461e-05 sum: -15.5533 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000632138 sum: -2.3347 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.52114e-05 sum: -1.16642 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.51461e-06 sum: 0.860317 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.71308e-05 sum: -3.67996 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.00395e-05 sum: 9.93742 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.81586e-06 sum: -6.709 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.94964e-06 sum: 0.630464 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.95925e-06 sum: 0.691347 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000626628 sum: 3.05977 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.32225e-05 sum: -1.63115 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.70564e-05 sum: -1.33622 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000144793 sum: -0.29011 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.26002e-05 sum: 0.3342 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.25392e-06 sum: -0.503368 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.56744e-06 sum: -6.55338 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.02984e-05 sum: 1.32037 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.8686e-05 sum: 0.63738 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.01956e-06 sum: -0.019381 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000115295 sum: 8.74399 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.20213e-06 sum: -4.86644 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000133978 sum: -4.20751 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00037148 sum: -4.41891 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.62786e-06 sum: 11.7537 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.37553e-05 sum: 0.521119 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.36367e-05 sum: 0.704815 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.26621e-05 sum: -1.22337 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00017357 sum: -0.0192022 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000197413 sum: -7.5075 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.19915e-05 sum: -3.68266 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000373545 sum: 10.4474 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.95608e-05 sum: 1.85309 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000599067 sum: -0.545915 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000145957 sum: 0.412909 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.29597e-05 sum: -4.27572 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000307014 sum: 1.47537 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.80637e-05 sum: 2.2972 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000243519 sum: -0.2335 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.29321e-05 sum: 0.428187 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000279338 sum: 0.835299 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000223884 sum: 0.0451628 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.97706e-05 sum: 0.50822 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000116273 sum: 0.573229 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000201251 sum: -2.16571 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000107151 sum: -0.437244 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.0001197 sum: -32.9217 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000242557 sum: 10.1541 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.47688e-06 sum: 4.60362 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.09854e-06 sum: -0.158249 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000274036 sum: 0.305811 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000275362 sum: 0.634706 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000140271 sum: 0.204504 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.29488e-05 sum: 0.332678 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.24911e-05 sum: 0.468203 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.33288e-05 sum: 0.528472 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000251416 sum: 7.36967 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.94511e-05 sum: -0.866139 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.47721e-05 sum: 1.10765 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000461429 sum: 0.223624 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000206789 sum: 1.26542 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.29309e-05 sum: -0.913845 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000263755 sum: -0.250102 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000328826 sum: -0.56633 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000167833 sum: -2.16378 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000138429 sum: -0.198776 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000117478 sum: 1.28538 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.0135e-06 sum: -10.7811 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.45443e-05 sum: 1.60748 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000317414 sum: 1.07823 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000279096 sum: 1.27138 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.04068e-05 sum: 0.930651 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.04354e-05 sum: 11.6623 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000194594 sum: -1.18349 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.76895e-05 sum: 2.51976 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.5135e-06 sum: 0.363625 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.73123e-06 sum: 1.01555 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.79069e-06 sum: 2.50085 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.17367e-06 sum: -0.199829 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.18854e-05 sum: 0.88518 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.35907e-05 sum: -3.41147 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.05632e-06 sum: 6.06576 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000164535 sum: -0.879163 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.95975e-05 sum: 1.39165 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.00010349 sum: -15.7588 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.14329e-05 sum: 2.71428 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.87758e-06 sum: -4.66815 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.56965e-05 sum: 0.317558 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.70232e-05 sum: -18.2776 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.07124e-05 sum: 3.35859 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.06025e-05 sum: -0.717939 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000118382 sum: 1.14258 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.94142e-05 sum: -3.50329 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.42347e-06 sum: 12.3857 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.1472e-06 sum: -0.0028754 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.27488e-06 sum: 2.41102 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.55725e-06 sum: 0.436644 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.35357e-05 sum: 0.765281 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.31529e-05 sum: 1.29995 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.68212e-05 sum: 2.64732 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.68309e-05 sum: 8.75435 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.03667e-05 sum: 10.8855 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.82428e-06 sum: -1.98063 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.74124e-06 sum: 5.03488 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000167706 sum: 6.91233 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.59378e-05 sum: 5.93871 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.04357e-06 sum: -1.7746 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.49848e-06 sum: 0.998822 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000153764 sum: 2.97675 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.74375e-05 sum: -3.45523 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000112562 sum: 0.183444 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.70642e-05 sum: 4.44838 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.10926e-06 sum: 1.09851 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.04826e-06 sum: 1.33386 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 0.000139897 sum: -5.9593 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.29567e-05 sum: -0.832422 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.59876e-06 sum: -13.8502 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.70801e-05 sum: -7.79622 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.31145e-05 sum: 0.649489 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.61284e-06 sum: 0.50236 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.26762e-05 sum: 0.869501 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.58351e-06 sum: 0.718541 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.02169e-05 sum: 0.842909 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.62567e-06 sum: -0.457344 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.86801e-05 sum: 4.07077 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.26619e-05 sum: 0.332476 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.78073e-05 sum: 0.474827 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.0422e-05 sum: -0.857991 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.00329e-06 sum: -0.719499 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.2349e-06 sum: -0.728892 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.72922e-05 sum: 6.37611 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.89257e-06 sum: 2.39088 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.01648e-05 sum: 0.423334 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.4425e-06 sum: 0.967395 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.78709e-06 sum: -1.70577 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.39207e-06 sum: 3.01512 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.02751e-06 sum: 1.58919 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.24141e-05 sum: -11.7196 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.72746e-06 sum: 2.74242 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.38431e-06 sum: 0.29013 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.37775e-06 sum: 2.9606 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.1297e-06 sum: 0.438277 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.4515e-05 sum: 1.2319 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.9862e-05 sum: -0.350449 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.03628e-05 sum: -1.0241 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.08247e-06 sum: 0.452643 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.66964e-05 sum: 3.23766 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.02923e-05 sum: 0.0461849 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.58024e-05 sum: -7.31975 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.10398e-05 sum: -6.29733 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 8.41046e-06 sum: 1.38407 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.74563e-06 sum: -1.62829 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.06831e-05 sum: 1.81953 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.12495e-05 sum: -0.0528766 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.4626e-06 sum: -3.63924 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.69028e-05 sum: 8.29884 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.42632e-05 sum: 11.0814 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.74044e-05 sum: -16.1516 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.52026e-06 sum: 2.35642 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.14775e-05 sum: 1.45705 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.05717e-05 sum: 0.521561 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.99211e-06 sum: 26.5108 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.61203e-06 sum: -1.09802 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.17617e-06 sum: 2.05058 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.84132e-05 sum: 13.8567 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.82646e-06 sum: -1.0385 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 5.99788e-06 sum: 4.69535 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.958e-06 sum: -2.69852 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.85688e-06 sum: 4.12479 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.03441e-06 sum: 1.49262 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 9.2957e-06 sum: 1.10277 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.69066e-06 sum: 2.07122 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.14055e-06 sum: 3.59574 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.28153e-05 sum: -4.32883 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.88284e-06 sum: 15.1316 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 4.98437e-06 sum: 1.53694 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 7.94518e-06 sum: 0.31371 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.5199e-06 sum: -22.3205 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 6.98004e-06 sum: 2.04353 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.19044e-06 sum: 1.63845 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.75662e-06 sum: 0.809254 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.55466e-06 sum: 0.38412 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.81524e-06 sum: -0.769897 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.42107e-06 sum: 0.824986 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.27518e-05 sum: 0.0871834 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.09973e-06 sum: -0.445549 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.74023e-06 sum: 2.63206 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.65447e-06 sum: -0.304153 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 3.03516e-06 sum: -1.91883 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.07073e-06 sum: 1.44858 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.1368e-06 sum: -16.6165 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.25148e-06 sum: -19.1002 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 2.58307e-06 sum: 1.12726 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.79502e-06 sum: 0.387861 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.58362e-06 sum: 3.44234 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.92818e-06 sum: -0.244089 nrelax: 100
+WARNING: convergence for u.x not reached after 100 iterations
+  res: 1.14907e-06 sum: 1.32875 nrelax: 100
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1203]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1212]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1944]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1953]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1964]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1973]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1983]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 1992]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2001]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2010]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2019]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2028]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2037]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2046]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2055]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2064]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2073]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2082]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2091]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2100]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2109]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2118]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2127]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2136]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2145]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2154]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2163]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2172]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2181]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2190]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2199]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2208]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2217]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2226]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2235]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2244]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2253]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2262]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2271]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2280]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2289]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2298]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2307]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2316]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2325]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2334]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2343]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2352]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2361]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2370]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2379]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2388]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2397]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: [Detaching after vfork from child process 2406]
+/home/parthib/basilisk/src/grid/tree.h:1165:error: Program received signal SIGINT, Interrupt.

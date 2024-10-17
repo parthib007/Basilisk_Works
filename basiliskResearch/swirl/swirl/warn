@@ -1,0 +1,5 @@
+swirl.c:164:1: warning: "/*" within comment [-Wcomment]
+.qccsVQAN7/swirl.c:1:7: warning: line number out of range
+/mnt/e/basiliskResearch/swirl/.qccsVQAN7//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range

@@ -1,0 +1,7 @@
+.qccBdxTWM/test1.c:1:7: warning: line number out of range
+/mnt/e/basiliskResearch/test1/.qccBdxTWM//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+test1.c: In function ‘main’:
+test1.c:72:12: warning: right-hand operand of comma expression has no effect [-Wunused-value]
+test1.c:76:18: warning: right-hand operand of comma expression has no effect [-Wunused-value]

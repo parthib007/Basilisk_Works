@@ -1,0 +1,7 @@
+.qccCX8TEJ/turbulence.c:1:7: warning: line number out of range
+/mnt/e/basiliskResearch/turbulence/.qccCX8TEJ//:1:7: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+turbulence.c: In function ‘end’:
+turbulence.c:44:16: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘const int *’ [-Wformat=]
+turbulence.c:44:16: warning: format ‘%g’ expects argument of type ‘double’, but argument 3 has type ‘const double *’ [-Wformat=]

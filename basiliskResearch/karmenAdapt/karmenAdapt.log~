@@ -1,0 +1,8 @@
+././adapt-values.h:58: warning: Basilisk C parse error near `
+       local = true, break'
+.qccuXqfa6/karmenAdapt.c:1:7: warning: line number out of range
+karmenAdapt-cpp.c: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+././adapt-values.h: In function ‘adapt_values’:
+././adapt-values.h:58:29: error: expected expression before ‘break’

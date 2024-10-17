@@ -1,0 +1,11 @@
+qcc -autolink -O2 -g -Wall -Wno-unused-function -pipe -D_FORTIFY_SOURCE=2 -o fall/fall fall.c  -lm
+fall.c:40:1: warning: "/*" within comment [-Wcomment]
+fall.c:44:1: warning: "/*" within comment [-Wcomment]
+.qccGC4iHt/fall.c:1:7: warning: line number out of range
+fall-cpp.c: warning: line number out of range
+<built-in>: warning: line number out of range
+/usr/include/stdc-predef.h:1:7: warning: line number out of range
+fall.c: In function ‘viewing’:
+fall.c:276:77: error: ‘struct _view_set’ has no member named ‘aspect’
+fall.c:276:10: warning: missing braces around initializer [-Wmissing-braces]
+make: *** [fall.s] Error 1
